@@ -57,6 +57,9 @@ Visualizar el balance anual entre ingresos y gastos.
 
 Identificar si el sistema entra en déficit o superávit bajo distintos escenarios.
 
+Enlace de la app
+https://simulacion-pensiones-2050-ism6rm7dgu4skxiysq6fae.streamlit.app/ 
+
 📚 Fuentes
 Población proyectada: INE / PopulationPyramid.net
 
