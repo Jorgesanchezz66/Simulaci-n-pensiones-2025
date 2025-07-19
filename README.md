@@ -1,4 +1,3 @@
-
 # Simulador de Pensiones en España (2025–2050)
 
 Este proyecto permite simular el sistema público de pensiones en España utilizando un modelo demográfico por cohortes (estructura poblacional real), y visualizar ingresos, gastos y balance del sistema bajo distintos escenarios.
@@ -30,4 +29,4 @@ streamlit run streamlit_app/simulador_cohortes.py
 
 ## ✍️ Autor
 
-Jorge Sánchez González 
+Jorge Sánchez González — [LinkedIn](https://www.linkedin.com)
